@@ -2,10 +2,6 @@
 
 A collection of simple Python code.
 
-## Games and Scripts
-
-### 1. Number Guessing Game (`number_guessing_game.py`)
-A fun number guessing game where the player tries to guess a randomly generated number.
 
 **How to run:**
 ```bash
