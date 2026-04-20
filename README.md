@@ -31,13 +31,6 @@ Generates QR codes from user input.
 python qr_code_generator.py
 ```
 
-### 4. Main (`main.py`)
-The main entry point of the project.
-
-**How to run:**
-```bash
-python main.py
-```
 
 ## Setup
 
