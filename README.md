@@ -1,6 +1,6 @@
 # Python Project 1
 
-A collection of simple Python games and utilities.
+A collection of simple Python code.
 
 ## Games and Scripts
 
@@ -10,25 +10,6 @@ A fun number guessing game where the player tries to guess a randomly generated 
 **How to run:**
 ```bash
 python number_guessing_game.py
-```
-
-### 2. Tic-Tac-Toe (`tic_tac_toe.py`)
-A classic tic-tac-toe game for two players.
-
-**How to run:**
-```bash
-python tic_tac_toe.py
-```
-
-### 3. QR Code Generator (`qr_code_generator.py`)
-Generates QR codes from user input.
-
-**Requirements:**
-- Install dependencies: `pip install qrcode[pil]`
-
-**How to run:**
-```bash
-python qr_code_generator.py
 ```
 
 
